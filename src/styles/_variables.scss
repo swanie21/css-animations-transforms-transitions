@@ -1,0 +1,25 @@
+// Color Palette
+$black: #000;
+
+$white: #FFF;
+
+$grey-dark: #50514F;
+
+$coral: #F25F5C;
+
+$yellow: #FFE066;
+
+$blue: #247BA0;
+
+$green: #70C1B3;
+
+
+// Media query breakpoints
+
+$breakpoint-small: 320px;
+$breakpoint-medium: 770px;
+$breakpoint-large: 1025px;
+
+$S: 'min-width:' + $breakpoint-small;
+$M: 'min-width:' + $breakpoint-medium;
+$L: 'min-width:' + $breakpoint-large
