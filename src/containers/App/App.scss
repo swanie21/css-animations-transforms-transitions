@@ -9,8 +9,11 @@
 }
 
 .box-frame {
+  align-items: center;
   border: 6px solid lighten($grey-dark, 20%);
+  display: flex;
   height: 300px;
+  justify-content: center;
   margin: 20px;
   width: 40%;
 }

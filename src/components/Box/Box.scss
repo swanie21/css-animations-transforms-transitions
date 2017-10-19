@@ -1,0 +1,49 @@
+@import '../../styles/_variables';
+
+.move-right {
+  background-color: $coral;
+  height: 100px;
+  width: 100px;
+}
+
+.move-left {
+  background-color: $yellow;
+  height: 100px;
+  width: 100px;
+}
+
+.move-up {
+  background-color: $blue;
+  height: 100px;
+  width: 100px;
+}
+
+.move-down {
+  background-color: $green;
+  height: 100px;
+  width: 100px;
+}
+
+.change-color {
+  background-color: $coral;
+  height: 100px;
+  width: 100px;
+}
+
+.change-size {
+  background-color: $yellow;
+  height: 100px;
+  width: 100px;
+}
+
+.pulse {
+  background-color: $blue;
+  height: 100px;
+  width: 100px;
+}
+
+.shake {
+  background-color: $green;
+  height: 100px;
+  width: 100px;
+}
